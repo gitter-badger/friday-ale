@@ -1,5 +1,7 @@
 # friday-ale
 
+[![Join the chat at https://gitter.im/friday-ale/Lobby](https://badges.gitter.im/friday-ale/Lobby.svg)](https://gitter.im/friday-ale/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Travis](https://img.shields.io/travis/sankhaonline/friday-ale.svg?style=plastic)](https://travis-ci.org/sankhaonline/friday-ale)
 [![Build Status](https://semaphoreci.com/api/v1/sankhaonline/friday-ale/branches/master/shields_badge.svg)](https://semaphoreci.com/sankhaonline/friday-ale)
 [![wercker status](https://app.wercker.com/status/07244cf3cfd6ac4026e7e272602261d0/m/master "wercker status")](https://app.wercker.com/project/byKey/07244cf3cfd6ac4026e7e272602261d0)
